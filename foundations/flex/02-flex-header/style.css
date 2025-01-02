@@ -32,3 +32,11 @@ li {
   margin: 5px;
   padding: 5px;
 }
+
+.left-links {
+  margin-right: auto;
+}
+
+.right-links {
+  margin-left: auto;
+}
