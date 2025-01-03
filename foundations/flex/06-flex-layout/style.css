@@ -36,4 +36,12 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
+  padding-right: 30px;
+}
+
+.right-links,
+.left-links {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
 }
