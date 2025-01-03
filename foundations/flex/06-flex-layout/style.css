@@ -33,7 +33,8 @@ a {
   text-decoration: none;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   padding-right: 30px;
@@ -44,4 +45,14 @@ a {
   display: flex;
   flex-direction: row;
   gap: 8px;
+}
+
+.footer {
+  flex: initial;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
