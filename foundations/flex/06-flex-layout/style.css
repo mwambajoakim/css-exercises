@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  margin-top: 16px
 }
 
 input {
@@ -49,6 +50,7 @@ a {
 
 .footer {
   flex: initial;
+  background-color: #eeeeee;
 }
 
 .content {
